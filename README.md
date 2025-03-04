@@ -22,6 +22,7 @@
   - [Drone Data Service](https://github.com/Savier5/DroneDataService)
   - [Blockchain Basics](https://github.com/Savier5/BlockchainBasics)
   - [Capstone](https://github.com/Savier5/Capstone-Project)
+  - [Calculating Set Operations](https://github.com/Savier5/Calculate-Set-Operations)
   - [Approximate PI](https://github.com/Savier5/ApproximatePI)
   - [Classes and Objects](https://github.com/Savier5/ClassesAndObjects)
 
