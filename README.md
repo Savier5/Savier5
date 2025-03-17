@@ -23,6 +23,7 @@
   - [Blockchain Basics](https://github.com/Savier5/BlockchainBasics)
   - [Capstone](https://github.com/Savier5/Capstone-Project)
   - [Calculating Set Operations](https://github.com/Savier5/Calculate-Set-Operations)
+  - [Boolean Calculator](https://github.com/Savier5/Create-a-Boolean-Calculator)
   - [Approximate PI](https://github.com/Savier5/ApproximatePI)
   - [Classes and Objects](https://github.com/Savier5/ClassesAndObjects)
 
