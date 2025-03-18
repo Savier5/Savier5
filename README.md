@@ -21,11 +21,11 @@
 - <b>Java</b>
   - [Drone Data Service](https://github.com/Savier5/DroneDataService)
   - [Blockchain Basics](https://github.com/Savier5/BlockchainBasics)
-  - [Capstone](https://github.com/Savier5/Capstone-Project)
   - [Relations-Digraphs](https://github.com/Savier5/Relations-Digraphs)
   - [Boolean Calculator](https://github.com/Savier5/Create-a-Boolean-Calculator)
   - [Calculating Set Operations](https://github.com/Savier5/Calculate-Set-Operations)
   - [Approximate PI](https://github.com/Savier5/ApproximatePI)
+  - [Capstone](https://github.com/Savier5/Capstone-Project)
   - [Classes and Objects](https://github.com/Savier5/ClassesAndObjects)
 
 <h2> 🤳 Connect with me:</h2>
