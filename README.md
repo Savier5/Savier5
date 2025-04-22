@@ -21,6 +21,7 @@
 - <b>Java</b>
   - [Drone Data Service](https://github.com/Savier5/DroneDataService)
   - [Blockchain Basics](https://github.com/Savier5/BlockchainBasics)
+  - [Java Password Generator](https://github.com/Savier5/Java-Password-Generator)
   - [Relations/Digraphs](https://github.com/Savier5/Relations-Digraphs)
   - [Boolean Calculator](https://github.com/Savier5/Create-a-Boolean-Calculator)
   - [Calculating Set Operations](https://github.com/Savier5/Calculate-Set-Operations)
